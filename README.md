@@ -1,4 +1,4 @@
-# Stock Prediction System
+# Stock Ticker Prediction
 
 To run main site:
 
